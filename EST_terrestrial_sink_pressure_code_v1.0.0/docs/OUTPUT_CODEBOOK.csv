@@ -1,0 +1,9 @@
+File,Field,Meaning,Unit
+main_results_ge10.csv,Selected_Area_km2,Area retained under the 10-year temporal completeness threshold,km2
+main_results_ge10.csv,Coverage_vs_EverValid_pct,Retained area relative to the domain with at least one valid NEP observation,percent
+main_results_ge10.csv,Mean_NEP_gC_m2_yr,Mean pixel-level long-term NEP,g C m-2 yr-1
+main_results_ge10.csv,Terrestrial_Sink_MtCO2_yr,Long-term terrestrial ecosystem sink benchmark,Mt CO2 yr-1
+pressure_ratio_temporal_thresholds.csv,Emission_to_Sink_Pressure_Ratio,Remaining industrial emissions divided by the threshold-specific sink benchmark,dimensionless
+sink_capacity_sensitivity_80_100_120.csv,Adjusted_Terrestrial_Sink_MtCO2_yr,Historical sink benchmark multiplied by the specified sensitivity scale,Mt CO2 yr-1
+sink_capacity_sensitivity_80_100_120.csv,Emission_to_Sink_Pressure_Ratio,Remaining industrial emissions divided by the adjusted benchmark,dimensionless
+Table1_main_text.csv,Pressure_ratio_range_under_80_120pct_benchmarks,Minimum and maximum pressure ratios under 80% and 120% benchmark settings,dimensionless

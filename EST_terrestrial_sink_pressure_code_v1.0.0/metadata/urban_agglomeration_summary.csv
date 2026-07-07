@@ -1,0 +1,5 @@
+UA,Full_Name,Number_of_Cities,Overlap_Note
+BTH,Beijing-Tianjin-Hebei,13,Handan and Xingtai also belong to CP
+YRD,Yangtze River Delta,27,None
+PRD,Pearl River Delta,9,None
+CP,Central Plains,30,Handan and Xingtai also belong to BTH

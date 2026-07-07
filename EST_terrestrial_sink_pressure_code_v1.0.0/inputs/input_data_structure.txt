@@ -1,0 +1,19 @@
+Required project structure
+
+C:\NEP
+├── Original
+│   └── Twenty annual NEP TIFF rasters for 2001-2020.
+│       Each filename must contain its four-digit year.
+├── Projected
+│   ├── NEP_2001_Albers.tif
+│   └── NEP_2002_Albers.tif ... NEP_2020_Albers.tif
+├── Boundary_Albers
+│   ├── BTH_boundary_Albers.shp
+│   ├── YRD_boundary_Albers.shp
+│   ├── PRD_boundary_Albers.shp
+│   └── CP_boundary_Albers.shp
+└── Reproducible_Outputs
+    └── Created automatically by the pipeline
+
+The aligned 2001 raster is used as the snap raster, cell-size reference,
+extent reference, and output coordinate-system reference.

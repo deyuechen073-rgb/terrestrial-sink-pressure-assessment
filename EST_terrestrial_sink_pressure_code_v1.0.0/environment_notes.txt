@@ -1,0 +1,10 @@
+Original environment:
+ArcGIS Desktop 10.8
+Python 2.7
+ArcPy
+Spatial Analyst
+NumPy
+MATLAB for figure generation
+
+Run scripts/capture_environment.py or run_all.py to create an exact
+environment_details.txt file for the executing computer.
