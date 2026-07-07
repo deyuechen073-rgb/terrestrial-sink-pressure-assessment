@@ -15,8 +15,6 @@ The package covers:
 - Supporting Information Method S5 and Note S2;
 - Supporting Information Table S9 and Fig. S1.
 
-It does not claim to reproduce the full city-subsector inventory, LMDI
-decomposition, or MESSAGEix scenario model.
 
 ## Environment
 
