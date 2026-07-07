@@ -7,7 +7,5 @@ type: software
 authors:
   - family-names: "Chen"
     given-names: "Deyue"
-  - family-names: "Shang"
-    given-names: "Yilin"
-repository-code: "https://github.com/REPLACE_WITH_REPOSITORY"
+repository-code: "https://github.com/deyuechen073-rgb/terrestrial-sink-pressure-assessment"
 license: MIT
